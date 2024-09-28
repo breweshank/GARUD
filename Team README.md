@@ -54,9 +54,7 @@ Our project, **Garud**, is an AI-integrated rover designed for patrolling the In
 
 ## Future Plans
 
-- Enhance the AI assistant with more advanced features for better interaction.
-- Further develop the rover’s capabilities with additional sensors.
-- Explore potential applications and partnerships with military organizations for real-world deployment.
+- **We will integrate our system with RaspberryPi for better productivity**
 
 ## Contact Information
 
