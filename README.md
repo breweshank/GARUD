@@ -61,7 +61,7 @@ To set up the project locally, follow these steps:
 
 ## Code Structure
 
-ai-rover-border-security/
+-ai-rover-border-security/
 │
 ├── backend/
 │   ├── models/
