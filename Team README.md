@@ -43,9 +43,9 @@ Our project, **Garud**, is an AI-integrated rover designed for patrolling the In
 
 ## Contributions
 
-- **Hardware System**: Eshank led the assembly and integration of the rover's components, ensuring functionality.
+- **Hardware System**: Eshank led the assembly and integration of the rover's components, ensuring functionality and present the project to the judegs.
 - **AI Model**: Nandini developed a CNN-based model for human detection, enhancing the rover’s surveillance capabilities.
-- **Design and Prototyping**: Mohut created intuitive designs for the web interface using Figma, focusing on user experience.
+- **Design and Prototyping**: Mohit created intuitive designs for the web interface using Figma, focusing on user experience.
 - **Web Development**: Ayush brought the designs to life by building the web application and deploying it online.
 
 ## Challenges Faced
