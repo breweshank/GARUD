@@ -18,7 +18,7 @@
 
 | Name              | GitHub Profile                     | Role                |
 |-------------------|------------------------------------|---------------------|
-| Eshank Reyshabh   | [@eshank](https://github.com/breweshank) | Team Leader / Hardware Expert |
+| Eshank Reyshabh   | [@eshank](https://github.com/breweshank) | Team Leader / Robotic/AI Expert |
 | Nandini Jaiswal   | [@nandini](https://NandiniJaiswal05) | AI/ML Expert        |
 | Mohut Rahangdale   | [@mohit](https://github.com/mohitrahangdale18)  | UI/UX Designer      |
 | Ayush Bhusari     | [@ayush](https://github.com/ayush)  | Web Developer       |
